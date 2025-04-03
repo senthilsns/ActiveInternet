@@ -1,0 +1,15 @@
+{
+  "originHash" : "7c107331cdcca7ece15f2201579cde7bfcf74792e1795a48b4d6ba6c09498372",
+  "pins" : [
+    {
+      "identity" : "reachability",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tonymillion/Reachability.git",
+      "state" : {
+        "revision" : "3e16ffa862dda39ca9c49722d9bcb68cc2ae83d5",
+        "version" : "3.7.6"
+      }
+    }
+  ],
+  "version" : 3
+}
